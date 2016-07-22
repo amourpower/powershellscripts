@@ -1,2 +1,2 @@
 # powershellscripts
-ps repo
+*ps repo*
